@@ -1,5 +1,10 @@
-### ![](https://i.pinimg.com/564x/bd/53/6f/bd536ff1cb7dd7b973b3cd81a18f3894.jpg)
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/892490519601643582/1227239575005691944/Untitled177_20240409085016.png?ex=6627aeeb&is=661539eb&hm=885239f40bc23e18bb9a037bf291b3b0648b5f4169278ac2be663bc281fe781f&=&format=webp&quality=lossless&width=757&height=700" alt="me and who"/>
+</p>
 
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/892490519601643582/1227248848762830969/Untitled177_20240409092723.png?ex=6627b78e&is=6615428e&hm=8f696675ad1bf6d175fc20a293732318972a5c45c552eabb9ceae5758d27e353&=&format=webp&quality=lossless&width=612&height=111" alt="me"/>
+</p>
 <!--
 **boyeater/boyeater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
