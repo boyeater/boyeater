@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/892490519601643582/1227249490235359373/Untitled177_20240409093056.png?ex=6627b827&is=66154327&hm=9b55c94e5c787b8231168e57e8a885e8866c4c86809e73872244ad4d17cfc1eb&=&format=webp&quality=lossless&width=645&height=640" alt="me and who"/>
-</p>
-
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/892490519601643582/1227249985008173126/Untitled178_20240409093304.png?ex=6627b89d&is=6615439d&hm=6569fe023d0b681210b49724534030ff5e9df55840b130f328b7d82a0578b828&=&format=webp&quality=lossless&width=387&height=75" alt="me"/>
-</p>
+hi guys
 <!--
 **boyeater/boyeater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
